@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYyUChxeRcv0baV7GWdy3Ux9/acp8yolbGp6t8mKMTRJXiCq5cKPJ5218EkTvN01ZuP6OhhQI5W5sykuxzTkBA==",
+  "success": true,
+  "projectFilePath": "D:\\STUDIES\\C#_exercise\\Script_EVIEW2\\Script_EVIEW2\\Script_EVIEW2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmorozov\\.nuget\\packages\\autoitx.dotnet\\3.3.14.5\\autoitx.dotnet.3.3.14.5.nupkg.sha512"
+  ],
+  "logs": []
+}
